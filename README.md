@@ -114,8 +114,6 @@ npm install
 
 cd Fasyfy_BackEnd
 npm install
-
-
 ```
 
 3️⃣ Configure as variáveis de ambiente no arquivo `.env`
